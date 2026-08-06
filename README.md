@@ -7,11 +7,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=hetpatel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=Het-Patel-cg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=hetpatel&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=Het-Patel-cg&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hetpatel&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Het-Patel-cg&theme=dark&hide_border=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=www.linkedin.com/in/het-patel-401ab1427&icon=0&color=0)](https://visitcount.itsvg.in)
