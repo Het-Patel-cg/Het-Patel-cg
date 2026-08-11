@@ -1,5 +1,5 @@
 # 💫 About Me: HEY👋, I AM HET PATEL
-🔭 First-year computer engineering student.<br>👯 Currently building web developement and python projects.<br>🌱Learning data structures and algorithms, git, github, and full-stack developement.<br><br>🤝Open to collaborating on beginner friendly open source projects.<br>💬Ask me about c, python, html, css, and javascript.<br><br>⚡My goal is to get employment in APPLE INC. <br>
+🔭 First-year computer engineering student.<br>👯 Currently building web developement and python projects.<br>🌱Learning data structures and algorithms, git, github, and full-stack developement.<br><br>🤝Open to collaborating on beginner friendly open source projects.<br>💬Ask me about c, python, html, css, and javascript.<br><br>⚡My goal is to get employment in PRODUCT BASED COMPANIES. <br>
 
 
 ## 🌐 Socials:
