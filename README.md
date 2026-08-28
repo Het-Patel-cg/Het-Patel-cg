@@ -85,14 +85,8 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
     </td>
     <td align="center" width="220">
       <a href="#">
-        <img src="https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
+        <img src="www.linkedin.com/in/het-patel-401ab1427" /><br/>
         <sub><b>Let's Connect</b></sub>
-      </a>
-    </td>
-    <td align="center" width="220">
-      <a href="#">
-        <img src="https://img.shields.io/badge/-%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br/>
-        <sub><b>Say Hi</b></sub>
       </a>
     </td>
   </tr>
