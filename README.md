@@ -90,7 +90,7 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
       </a>
     </td>
     <td align="center" width="220">
-      <a href="mailto:het.patel.cg@gmail.com">
+      <a href="mailto:youremail@example.com">
         <img src="https://img.shields.io/badge/-%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
         <sub><b>Say Hi</b></sub>
       </a>
@@ -122,7 +122,7 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
 
 | Category | Stack |
 |---|---|
-| 💻 **Languages** | `HTML5` `CSS3` `Python` |
+| 💻 **Languages** | `HTML5` `CSS` `Python` |
 | 🎨 **Design** | `Figma` |
 | 🧰 **Tools & Platforms** | `Git` `GitHub` `VS Code` |
 
@@ -134,7 +134,7 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Het-Patel-cg&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" alt="trophies" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Het-Patel-cg&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" alt="trophies" />
 
 </div>
 
@@ -167,15 +167,13 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
 
 [![Het's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Het-Patel-cg&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div> 
-
-
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ *"Every line of code I write today is a step closer to what I want to become."*
+### ✨ *"Every line of code I write today is a step closer to who I want to become."*
 
 <br/>
 
