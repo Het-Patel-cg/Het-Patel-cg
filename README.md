@@ -167,13 +167,15 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
 
 [![Het's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Het-Patel-cg&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+</div> 
+
+
 
 ---
 
 <div align="center">
 
-### ✨ *"Every line of code I write today is a step closer to who I want to become."*
+### ✨ *"Every line of code I write today is a step closer to what I want to become."*
 
 <br/>
 
