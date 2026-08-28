@@ -122,7 +122,7 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
 
 | Category | Stack |
 |---|---|
-| 💻 **Languages** | `HTML5` `CSS3` `Python` `Java Script` |
+| 💻 **Languages** | `HTML5` `CSS3` `Python` |
 | 🎨 **Design** | `Figma` |
 | 🧰 **Tools & Platforms** | `Git` `GitHub` `VS Code` |
 
