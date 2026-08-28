@@ -5,7 +5,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="45%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="45%"/>
 </h1>
 
 </div>
@@ -84,14 +84,14 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
       </a>
     </td>
     <td align="center" width="220">
-      <a href="www.linkedin.com/in/het-patel-401ab1427">
+      <a href="https://www.linkedin.com/in/het-patel-401ab1427">
         <img src="https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
         <sub><b>Let's Connect</b></sub>
       </a>
     </td>
     <td align="center" width="220">
-      <a href="#">
-        <img src="https://img.shields.io/badge/-%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br/>
+      <a href="mailto:het.patel.cg@gmail.com">
+        <img src="https://img.shields.io/badge/-%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
         <sub><b>Say Hi</b></sub>
       </a>
     </td>
@@ -112,25 +112,29 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
 
 <div align="center">
 
-### 💻 Languages
+<img src="https://skillicons.dev/icons?i=html,css,python,figma,git,github,vscode&theme=dark&perline=7" alt="Skills" />
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
-<br/><br/>
+<br/>
 
-### 🎨 Design
+<div align="center">
 
-<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+| Category | Stack |
+|---|---|
+| 💻 **Languages** | `HTML5` `CSS3` `Python` `Java Script` |
+| 🎨 **Design** | `Figma` |
+| 🧰 **Tools & Platforms** | `Git` `GitHub` `VS Code` |
 
-<br/><br/>
+</div>
 
-### 🧰 Tools & Platforms
+---
 
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+## 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Het-Patel-cg&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" alt="trophies" />
 
 </div>
 
