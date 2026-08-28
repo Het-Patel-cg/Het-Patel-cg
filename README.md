@@ -85,8 +85,14 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
     </td>
     <td align="center" width="220">
       <a href="www.linkedin.com/in/het-patel-401ab1427">
-        <img src=" https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"<br/>
+        <img src="https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
         <sub><b>Let's Connect</b></sub>
+      </a>
+    </td>
+    <td align="center" width="220">
+      <a href="#">
+        <img src="https://img.shields.io/badge/-%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br/>
+        <sub><b>Say Hi</b></sub>
       </a>
     </td>
   </tr>
@@ -129,6 +135,7 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
 </div>
 
 ---
+
 ## 📈 Contribution Animation
 
 <div align="center">
@@ -136,6 +143,7 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
 ![Contributions](https://ssr-contributions-svg.vercel.app/_/Het-Patel-cg?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large)
 
 </div>
+
 ---
 
 <a id="github-stats"></a>
