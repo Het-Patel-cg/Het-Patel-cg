@@ -12,6 +12,15 @@
 
 <div align="center">
 
+<h1>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="45%"/>
+</h1>
+
+</div>
+
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&multiline=true&width=780&height=100&lines=%E2%96%B6+1st+Year+Engineering+Student;%E2%96%B6+Learning+HTML+%7C+CSS+%7C+Python;%E2%96%B6+Exploring+Design+with+Figma;%E2%96%B6+Excited+to+Build+%26+Break+Things+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/> <br/>
@@ -176,7 +185,7 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
 <div align="center">
 
 ### ✨ *"Every line of code I write today is a step closer to who I want to become."*
-
+                                                                         
 <br/>
 
 ![Wave](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
