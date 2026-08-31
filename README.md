@@ -121,7 +121,7 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,,figma,git,github,vscode&theme=dark&perline=7" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,python,figma,git,github,vscode&theme=dark&perline=7" alt="Skills" />
 
 </div>
 
