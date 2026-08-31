@@ -101,7 +101,7 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
     <td align="center" width="220">
       <a href="mailto:youremail@example.com">
         <img src="https://img.shields.io/badge/-%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
-        <sub><b>Say Hi</b></sub>
+        <sub><b>Mail Me</b></sub>
       </a>
     </td>
   </tr>
@@ -121,7 +121,7 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,figma,git,github,vscode&theme=dark&perline=7" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,python,,figma,git,github,vscode&theme=dark&perline=7" alt="Skills" />
 
 </div>
 
@@ -131,7 +131,7 @@ I began with the basics — **HTML** and **CSS** — to understand how the web a
 
 | Category | Stack |
 |---|---|
-| 💻 **Languages** | `HTML5` `CSS` `Python` |
+| 💻 **Languages** | `HTML5` `CSS` `Python` `Java Script` |
 | 🎨 **Design** | `Figma` |
 | 🧰 **Tools & Platforms** | `Git` `GitHub` `VS Code` |
 
