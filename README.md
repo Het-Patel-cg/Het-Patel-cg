@@ -67,7 +67,7 @@ Hey there! I'm **Het Patel** 👋, a first-year Computer Engineering student jus
 
 I began with the basics — **HTML** and **CSS** — to understand how the web actually works, and I'm now picking up **Python** to build my programming logic and problem-solving skills. Alongside that, I'm exploring **Figma** to understand how good design comes together, since I believe a developer who understands design builds better products.
 
-- 🌱 Currently learning **HTML, CSS & Python**
+- 🌱 Currently learning **HTML, CSS, Python & Java Script **
 - 🎨 Exploring **UI/UX basics with Figma**
 - 🧠 Practicing logic building & problem solving
 - 🛠️ Getting comfortable with **Git, GitHub & VS Code**
