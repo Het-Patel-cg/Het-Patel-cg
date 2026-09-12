@@ -59,22 +59,17 @@
 
 <a id="about-me"></a>
 
-## 🧑‍🎓 About Me
+## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-Hey there! I'm **Het Patel** 👋, a first-year Computer Engineering student just getting started on my coding journey. I'm currently in my **1st semester**, and I'm genuinely excited about everything there is to learn in tech.
-
-I began with the basics — **HTML** and **CSS** — to understand how the web actually works, and I'm now picking up **Python** to build my programming logic and problem-solving skills. Alongside that, I'm exploring **Figma** to understand how good design comes together, since I believe a developer who understands design builds better products.
-
-- 🌱 Currently learning **HTML, CSS, Python & Java Script **
-- 🎨 Exploring **UI/UX basics with Figma**
-- 🧠 Practicing logic building & problem solving
-- 🛠️ Getting comfortable with **Git, GitHub & VS Code**
-- 📚 First-year student — everything is new and exciting!
-- 🤝 Open to learning, collaborating, and connecting with fellow beginners
-
-<br clear="right"/>
+```yaml
+name: Het Patel
+role: Computer Science Student (Year 1 · Semester 1)
+location: India 🇮🇳
+currently_learning: [HTML, CSS, Python, Git & GitHub, Figma]
+tools: [VS Code, GitHub, Figma]
+goal: "Becoming a full-stack developer, one commit at a time 🚀"
+fun_fact: "I debug more than I code, and I'm proud of it 🐛"
+```
 
 ---
 
