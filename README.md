@@ -116,7 +116,7 @@ fun_fact: "I debug more than I code, and I'm proud of it 🐛"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,figma,git,github,vscode&theme=dark&perline=7" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,python,js,figma,git,github,vscode&theme=dark&perline=8" alt="Skills" />
 
 </div>
 
@@ -126,7 +126,7 @@ fun_fact: "I debug more than I code, and I'm proud of it 🐛"
 
 | Category | Stack |
 |---|---|
-| 💻 **Languages** | `HTML5` `CSS` `Python` `Java Script` |
+| 💻 **Languages** | `HTML5` `CSS` `Python` `JavaScript` |
 | 🎨 **Design** | `Figma` |
 | 🧰 **Tools & Platforms** | `Git` `GitHub` `VS Code` |
 
@@ -180,7 +180,7 @@ fun_fact: "I debug more than I code, and I'm proud of it 🐛"
 <div align="center">
 
 ### ✨ *"Every line of code I write today is a step closer to who I want to become."*
-                                                                         
+
 <br/>
 
 ![Wave](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
