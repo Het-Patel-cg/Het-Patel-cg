@@ -65,7 +65,7 @@
 name: Het Patel
 role: Computer Science Student (Year 1 · Semester 1)
 location: India 🇮🇳
-currently_learning: [HTML, CSS, Python, Git & GitHub, Figma]
+currently_learning: [HTML, CSS, Python, Git & GitHub, Figma, JavaScript]
 tools: [VS Code, GitHub, Figma]
 goal: "Becoming a full-stack developer, one commit at a time 🚀"
 fun_fact: "I debug more than I code, and I'm proud of it 🐛"
